@@ -164,6 +164,11 @@
         top: -10px;
         left: calc(100% - 30px);
     }
+
+    80% {
+        top: -10px;
+        left: -30px;
+    }
 }
 
 .ex-12-bottom-white, .ex-13-bottom-white {
@@ -188,5 +193,10 @@
     50% {
         bottom: -10px;
         right: calc(100% - 30px);
+    }
+
+    80% {
+        bottom: -10px;
+        right: -30px;
     }
 }
